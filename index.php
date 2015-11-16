@@ -12,5 +12,7 @@
 	</head>
 	<body>
 		<p>Yo.</p>
+		<img src="david-gill.JPG" alt="David Gill">
+		<img src="gill-2016-logo.jpg" alt="logo">
 	</body>
 </html>
