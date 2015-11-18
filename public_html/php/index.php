@@ -40,6 +40,9 @@
 				fjs.parentNode.insertBefore(js, fjs);
 			}(document, 'script', 'facebook-jssdk'));</script>
 
+		<!-- Facebook buttons! -->
+		<div class="fb-like" data-href="http://democracy.com/davidgill2016/default.aspx" data-layout="button_count" data-action="like" data-show-faces="true" data-share="true"></div>
+
 		<!-- bootstrap stuff??? -->
 		<div class="navbar-wrapper">
 			<div class="container" >
@@ -223,6 +226,5 @@
 		<script src="../../assets/js/vendor/holder.min.js"></script>
 		<!-- IE10 viewport hack for Surface/desktop Windows 8 bug -->
 		<script src="../../assets/js/ie10-viewport-bug-workaround.js"></script>
-		<div class="fb-share-button" data-href="http://democracy.com/davidgill2016/default.aspx" data-layout="button_count"></div>
 	</body>
 </html>
