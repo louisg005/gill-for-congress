@@ -14,6 +14,9 @@
 		<p>Yo.</p>
 		<img src="david-gill.JPG" alt="David Gill">
 		<img src="gill-2016-logo.jpg" alt="logo">
-		<p></p>
+		<p>http://democracy.com/davidgill2016</p>
+		<p>http://democracy.com/davidgill2016</p>
+		<p>http://democracy.com/davidgill2016</p>
+		<p>http://democracy.com/davidgill2016</p>
 	</body>
 </html>
