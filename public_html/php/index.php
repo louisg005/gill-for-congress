@@ -31,7 +31,7 @@
 	================================================== -->
 	<body>
 		<div class="navbar-wrapper">
-			<div class="container1" >
+			<div class="container" >
 
 				<nav class="navbar navbar-inverse navbar-static-top">
 					<div class="container">
@@ -81,7 +81,7 @@
 			</ol>
 			<div class="carousel-inner" role="listbox">
 				<div class="item active">
-					<img class="first-slide" src="" alt="First slide">
+					<img class="first-slide" src="../img/g4chomesamp001.jpg" alt="First slide">
 					<div class="container">
 						<div class="carousel-caption">
 							<h1>Example headline.</h1>
