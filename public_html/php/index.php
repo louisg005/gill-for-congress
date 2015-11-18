@@ -42,6 +42,7 @@
 
 		<!-- Facebook buttons! -->
 		<div class="fb-like" data-href="http://democracy.com/davidgill2016/default.aspx" data-layout="button_count" data-action="like" data-show-faces="true" data-share="true"></div>
+		<div class="fb-page" data-href="https://www.facebook.com/GillforIL13/?fref=ts" data-small-header="true" data-adapt-container-width="true" data-hide-cover="false" data-show-facepile="true" data-show-posts="true"></div>
 
 		<!-- bootstrap stuff??? -->
 		<div class="navbar-wrapper">
