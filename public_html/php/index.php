@@ -81,7 +81,7 @@
 			</ol>
 			<div class="carousel-inner" role="listbox">
 				<div class="item active">
-					<img class="first-slide" src="" alt="First slide">
+					<img class="first-slide" src="http://secondwindrunningclub.org/sites/default/files/photo.JPG" alt="First slide">
 					<div class="container">
 						<div class="carousel-caption">
 							<h1>Example headline.</h1>
