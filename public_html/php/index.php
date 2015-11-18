@@ -105,7 +105,7 @@
 					</div>
 				</div>
 				<div class="item">
-					<img class="second-slide" src="../img/g4chomeslide002.jpg" alt="Second slide">
+					<img class="second-slide" src="../img/g4chomeslide003.jpg" alt="Second slide">
 					<div class="container">
 						<div class="carousel-caption">
 							<h1>Another example headline.</h1>
