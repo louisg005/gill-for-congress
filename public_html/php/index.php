@@ -81,7 +81,7 @@
 			</ol>
 			<div class="carousel-inner" role="listbox">
 				<div class="item active">
-					<img class="first-slide" src="http://www.greatnewsradio.org/wp-content/uploads/2010/09/Singing_Men_Clinton_Sept252.jpg" alt="First slide">
+					<img class="first-slide" src="" alt="First slide">
 					<div class="container">
 						<div class="carousel-caption">
 							<h1>Example headline.</h1>
