@@ -30,6 +30,17 @@
 	<!-- NAVBAR
 	================================================== -->
 	<body>
+		// incllude the JavaScript SDK on your page once, ideally right after the opening "body" tag
+		<div id="fb-root"></div>
+		<script>(function(d, s, id) {
+				var js, fjs = d.getElementsByTagName(s)[0];
+				if (d.getElementById(id)) return;
+				js = d.createElement(s); js.id = id;
+				js.src = "//connect.facebook.net/en_US/sdk.js#xfbml=1&version=v2.5";
+				fjs.parentNode.insertBefore(js, fjs);
+			}(document, 'script', 'facebook-jssdk'));</script>
+
+		// bootstrap stuff???
 		<div class="navbar-wrapper">
 			<div class="container" >
 
@@ -212,5 +223,6 @@
 		<script src="../../assets/js/vendor/holder.min.js"></script>
 		<!-- IE10 viewport hack for Surface/desktop Windows 8 bug -->
 		<script src="../../assets/js/ie10-viewport-bug-workaround.js"></script>
+		<div class="fb-share-button" data-href="http://democracy.com/davidgill2016/default.aspx" data-layout="button_count"></div>
 	</body>
 </html>
