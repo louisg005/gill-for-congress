@@ -30,7 +30,7 @@
 	<!-- NAVBAR
 	================================================== -->
 	<body>
-		// incllude the JavaScript SDK on your page once, ideally right after the opening "body" tag
+		<!-- include the JavaScript SDK on your page once, ideally right after the opening "body" tag -->
 		<div id="fb-root"></div>
 		<script>(function(d, s, id) {
 				var js, fjs = d.getElementsByTagName(s)[0];
@@ -40,7 +40,7 @@
 				fjs.parentNode.insertBefore(js, fjs);
 			}(document, 'script', 'facebook-jssdk'));</script>
 
-		// bootstrap stuff???
+		<!-- bootstrap stuff??? -->
 		<div class="navbar-wrapper">
 			<div class="container" >
 
