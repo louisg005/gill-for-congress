@@ -1,3 +1,5 @@
+
+
 <!doctype html>
 <!--[if lt IE 7 ]><html itemscope itemtype="http://schema.org/Organization" id="ie6" class="ie ie-old" lang="en-US" prefix="og: http://ogp.me/ns#"><![endif]-->
 <!--[if IE 7 ]>   <html itemscope itemtype="http://schema.org/Organization" id="ie7" class="ie ie-old" lang="en-US" prefix="og: http://ogp.me/ns#"><![endif]-->
@@ -7,7 +9,7 @@
 	<head>
 		<!-- Meta -->
 		<meta charset="utf-8">
-
+		<-->
 		<title>Chris Coons, U.S. Senator for Delaware</title>
 		<meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
 		<meta name="viewport" content="width=device-width, initial-scale=1.0">
@@ -35,9 +37,6 @@
 		<link rel="stylesheet" href="//netdna.bootstrapcdn.com/font-awesome/4.0.3/css/font-awesome.css">
 		<link rel="stylesheet" href="http://chriscoons.com/wp-content/themes/wideeyecreative/style.css">
 		<link rel="stylesheet" href="http://secure.wideeyeclient.com/universal_style.css">
-
-		<!--custom css--->
-		<link rel="stylesheet" href="//css/g4c.css">
 		<!--[if lt IE 9]>
 		<script src="/wp-content/themes/wideeyecreative/js/respond.min.js"></script>
 		<script src="//html5shiv.googlecode.com/svn/trunk/html5.js"></script>
@@ -384,9 +383,87 @@
 								<div class="feed-container">
 
 
+									<a class="feed-icon" href="https://twitter.com/chriscoons/status/667091760594731008" target="_blank">
+										<i class="fa fa-twitter"></i>
+										<span class="time-ago">4 hrs ago on Twitter</span>
+									</a>
+
+									<div class="feed-text">
+										<p>RT <a target="_blank" href="http://twitter.com/CompeteNow">@CompeteNow</a>: <a target="_blank" href="http://twitter.com/ChrisCoons">@ChrisCoons</a>: The findings of the <a target="_blank" href="http://twitter.com/search?q=mfg">#mfg</a> &amp; <a target="_blank" href="http://twitter.com/search?q=innovation">#innovation</a> report are highly important. <a target="_blank" href="http://twitter.com/Deloitte">@Deloitte</a></p>
+									</div>
+
+									<hr class="red">
+
+									<div class="social">
+										<a href="https://twitter.com/chriscoons" target="_blank">@chriscoons</a>
+										<a href="https://twitter.com/chriscoons" class="twitter-follow-button" data-show-count="false" data-show-screen-name="false">Follow @chriscoons</a>
+									</div>
+
+								</div>
+							</li>
+
+
+
+
+							<li class="twitter">
+								<div class="feed-container">
+
+
+									<a class="feed-icon" href="https://twitter.com/chriscoons/status/667089294406774784" target="_blank">
+										<i class="fa fa-twitter"></i>
+										<span class="time-ago">4 hrs ago on Twitter</span>
+									</a>
+
+									<div class="feed-text">
+										<p>RT <a target="_blank" href="http://twitter.com/ThirdWayTweet">@ThirdWayTweet</a>: .<a target="_blank" href="http://twitter.com/ThirdWayEcon">@ThirdWayEcon</a> finds <a target="_blank" href="http://twitter.com/search?q=EndofLife">#EndofLife</a> care wishes are often locked away: <a href="https://t.co/jzIAIk0Yoy" target="_blank">https://t.co/jzIAIk0Yoy</a><a target="_blank" href="http://twitter.com/ChrisCoons">@ChrisCoons</a> has a fix http</p>
+									</div>
+
+									<hr class="red">
+
+									<div class="social">
+										<a href="https://twitter.com/chriscoons" target="_blank">@chriscoons</a>
+										<a href="https://twitter.com/chriscoons" class="twitter-follow-button" data-show-count="false" data-show-screen-name="false">Follow @chriscoons</a>
+									</div>
+
+								</div>
+							</li>
+
+
+
+
+							<li class="twitter">
+								<div class="feed-container">
+
+
+									<a class="feed-icon" href="https://twitter.com/chriscoons/status/667088963220480002" target="_blank">
+										<i class="fa fa-twitter"></i>
+										<span class="time-ago">4 hrs ago on Twitter</span>
+									</a>
+
+									<div class="feed-text">
+										<p>Encouraged by events like this that facilitate discussions on competitiveness and technology trends btwn private sector &amp; gov <a target="_blank" href="http://twitter.com/CompeteNow">@CompeteNow</a></p>
+									</div>
+
+									<hr class="red">
+
+									<div class="social">
+										<a href="https://twitter.com/chriscoons" target="_blank">@chriscoons</a>
+										<a href="https://twitter.com/chriscoons" class="twitter-follow-button" data-show-count="false" data-show-screen-name="false">Follow @chriscoons</a>
+									</div>
+
+								</div>
+							</li>
+
+
+
+
+							<li class="twitter">
+								<div class="feed-container">
+
+
 									<a class="feed-icon" href="https://twitter.com/chriscoons/status/667088857393930240" target="_blank">
 										<i class="fa fa-twitter"></i>
-										<span class="time-ago">4 mins ago on Twitter</span>
+										<span class="time-ago">4 hrs ago on Twitter</span>
 									</a>
 
 									<div class="feed-text">
@@ -412,89 +489,11 @@
 
 									<a class="feed-icon" href="https://twitter.com/chriscoons/status/667088432745811969" target="_blank">
 										<i class="fa fa-twitter"></i>
-										<span class="time-ago">5 mins ago on Twitter</span>
+										<span class="time-ago">4 hrs ago on Twitter</span>
 									</a>
 
 									<div class="feed-text">
 										<p>Great to speak today at our second Competitiveness Caucus event on tech and our economy with <a target="_blank" href="http://twitter.com/CompeteNow">@CompeteNow</a> <a href="https://t.co/07ELYkjLDS" target="_blank">https://t.co/07ELYkjLDS</a></p>
-									</div>
-
-									<hr class="red">
-
-									<div class="social">
-										<a href="https://twitter.com/chriscoons" target="_blank">@chriscoons</a>
-										<a href="https://twitter.com/chriscoons" class="twitter-follow-button" data-show-count="false" data-show-screen-name="false">Follow @chriscoons</a>
-									</div>
-
-								</div>
-							</li>
-
-
-
-
-							<li class="twitter">
-								<div class="feed-container">
-
-
-									<a class="feed-icon" href="https://twitter.com/chriscoons/status/667077416431435776" target="_blank">
-										<i class="fa fa-twitter"></i>
-										<span class="time-ago">49 mins ago on Twitter</span>
-									</a>
-
-									<div class="feed-text">
-										<p>This morning I spoke with <a target="_blank" href="http://twitter.com/Morning_Joe">@Morning_Joe</a> about need for a new <a target="_blank" href="http://twitter.com/search?q=AUMF">#AUMF</a> and US policy towards refugees: <a href="https://t.co/UpUib1zyuD" target="_blank">https://t.co/UpUib1zyuD</a></p>
-									</div>
-
-									<hr class="red">
-
-									<div class="social">
-										<a href="https://twitter.com/chriscoons" target="_blank">@chriscoons</a>
-										<a href="https://twitter.com/chriscoons" class="twitter-follow-button" data-show-count="false" data-show-screen-name="false">Follow @chriscoons</a>
-									</div>
-
-								</div>
-							</li>
-
-
-
-
-							<li class="twitter">
-								<div class="feed-container">
-
-
-									<a class="feed-icon" href="https://twitter.com/chriscoons/status/667068915760168962" target="_blank">
-										<i class="fa fa-twitter"></i>
-										<span class="time-ago">1 hr ago on Twitter</span>
-									</a>
-
-									<div class="feed-text">
-										<p>Looking fwd to hosting our 2nd Competitiveness Caucus event w <a target="_blank" href="http://twitter.com/CompeteNow">@CompeteNow</a> to discuss US competitiveness &amp; technology trends <a target="_blank" href="http://twitter.com/JerryMoran">@JerryMoran</a></p>
-									</div>
-
-									<hr class="red">
-
-									<div class="social">
-										<a href="https://twitter.com/chriscoons" target="_blank">@chriscoons</a>
-										<a href="https://twitter.com/chriscoons" class="twitter-follow-button" data-show-count="false" data-show-screen-name="false">Follow @chriscoons</a>
-									</div>
-
-								</div>
-							</li>
-
-
-
-
-							<li class="twitter">
-								<div class="feed-container">
-
-
-									<a class="feed-icon" href="https://twitter.com/chriscoons/status/667051585588109312" target="_blank">
-										<i class="fa fa-twitter"></i>
-										<span class="time-ago">2 hrs ago on Twitter</span>
-									</a>
-
-									<div class="feed-text">
-										<p>Today I joined <a target="_blank" href="http://twitter.com/MSNBC">@MSNBC</a>'s <a target="_blank" href="http://twitter.com/Morning_Joe">@Morning_Joe</a> to talk abt how US can accept refugees &amp; ensure they pose no threat to US: <a href="https://t.co/UpUib1hXD5" target="_blank">https://t.co/UpUib1hXD5</a></p>
 									</div>
 
 									<hr class="red">
