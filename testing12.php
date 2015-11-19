@@ -100,11 +100,11 @@
 			})();
 			//]]></script>
 
-		<link rel="stylesheet" href="../css/style.css" type="text/css"/>
-		<link rel="stylesheet" href="../css/contact-form-7-css.css"  type="text/css">
-		<link rel="stylesheet" href="../css/ladda-css-css.css"  type="text/css">
-		<link rel="stylesheet" href="../css/bxslider-css.css"  type="text/css">
-		<link rel="stylesheet" href="../css/magnific-popup-css.css"  type="text/css">
+		<link rel="stylesheet" href="//css/style.css" type="text/css"/>
+		<link rel="stylesheet" href="//css/contact-form-7-css.css"  type="text/css">
+		<link rel="stylesheet" href="//css/ladda-css-css.css"  type="text/css">
+		<link rel="stylesheet" href="//css/bxslider-css.css"  type="text/css">
+		<link rel="stylesheet" href="//css/magnific-popup-css.css"  type="text/css">
 
 		<!----
 		<link rel="stylesheet" href="css/style.css" type="text/css"/>
