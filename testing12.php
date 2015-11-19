@@ -37,6 +37,8 @@
 		<link rel="stylesheet" href="//netdna.bootstrapcdn.com/font-awesome/4.0.3/css/font-awesome.css">
 		<link rel="stylesheet" href="http://chriscoons.com/wp-content/themes/wideeyecreative/style.css">
 		<link rel="stylesheet" href="http://secure.wideeyeclient.com/universal_style.css">
+
+
 		<!--[if lt IE 9]>
 		<script src="/wp-content/themes/wideeyecreative/js/respond.min.js"></script>
 		<script src="//html5shiv.googlecode.com/svn/trunk/html5.js"></script>
@@ -90,10 +92,22 @@
 				s.parentNode.insertBefore(ga, s);
 			})();
 			//]]></script>
-		<link rel="stylesheet" id="contact-form-7-css"  href="http://chriscoons.com/wp-content/plugins/contact-form-7/includes/css/styles.css?ver=3.7"  media="all">
-		<link rel="stylesheet" id="ladda-css-css"  href="http://chriscoons.com/wp-content/themes/wideeyecreative/css/ladda.css?ver=1.0"  media="all">
-		<link rel="stylesheet" id="bxslider-css"  href="http://chriscoons.com/wp-content/themes/wideeyecreative/css/bxslider.css?ver=4.0"  media="all">
-		<link rel="stylesheet" id="magnific-popup-css"  href="http://chriscoons.com/wp-content/themes/wideeyecreative/css/magnific-popup.css?ver=4.0"  media="all">
+
+		<link rel="stylesheet" href="css/style.css" type="text/css"/>
+		<link rel="stylesheet" href="contact-form-7-css"  type="text/css">
+		<link rel="stylesheet" href="ladda-css-css"  type="text/css">
+		<link rel="stylesheet" href="bxslider-css"  type="text/css">
+		<link rel="stylesheet" href="magnific-popup-css"  type="text/css">
+
+		<!----
+		<link rel="stylesheet" href="css/style.css" type="text/css"/>
+		<link rel="stylesheet" href="contact-form-7-css"  href="http://chriscoons.com/wp-content/plugins/contact-form-7/includes/css/styles.css?ver=3.7"  media="all">
+		<link rel="stylesheet" href="ladda-css-css"  href="http://chriscoons.com/wp-content/themes/wideeyecreative/css/ladda.css?ver=1.0"  media="all">
+		<link rel="stylesheet" href="bxslider-css"  href="http://chriscoons.com/wp-content/themes/wideeyecreative/css/bxslider.css?ver=4.0"  media="all">
+		<link rel="stylesheet" href="magnific-popup-css"  href="http://chriscoons.com/wp-content/themes/wideeyecreative/css/magnific-popup.css?ver=4.0"  media="all">
+		----->
+
+
 		<script type='text/javascript' src='//ajax.googleapis.com/ajax/libs/jquery/1.9.1/jquery.min.js?ver=1.9.1'></script>
 		<style type="text/css">.recentcomments a{display:inline !important;padding:0 !important;margin:0 !important;}</style>
 
