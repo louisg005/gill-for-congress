@@ -35,6 +35,9 @@
 		<link rel="stylesheet" href="//netdna.bootstrapcdn.com/font-awesome/4.0.3/css/font-awesome.css">
 		<link rel="stylesheet" href="http://chriscoons.com/wp-content/themes/wideeyecreative/style.css">
 		<link rel="stylesheet" href="http://secure.wideeyeclient.com/universal_style.css">
+
+		<!--custom css--->
+		<link rel="stylesheet" href="//css/g4c.css">
 		<!--[if lt IE 9]>
 		<script src="/wp-content/themes/wideeyecreative/js/respond.min.js"></script>
 		<script src="//html5shiv.googlecode.com/svn/trunk/html5.js"></script>
