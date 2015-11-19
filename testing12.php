@@ -1,10 +1,10 @@
 
 
 <!doctype html>
-<!--[if lt IE 7 ]><html itemscope itemtype="http://schema.org/Organization" id="ie6" class="ie ie-old" lang="en-US" prefix="og: http://ogp.me/ns#"><![endif]-->
-<!--[if IE 7 ]>   <html itemscope itemtype="http://schema.org/Organization" id="ie7" class="ie ie-old" lang="en-US" prefix="og: http://ogp.me/ns#"><![endif]-->
-<!--[if IE 8 ]>   <html itemscope itemtype="http://schema.org/Organization" id="ie8" class="ie ie-old" lang="en-US" prefix="og: http://ogp.me/ns#"><![endif]-->
-<!--[if IE 9 ]>   <html itemscope itemtype="http://schema.org/Organization" id="ie9" class="ie" lang="en-US" prefix="og: http://ogp.me/ns#"><![endif]-->
+<!--[if lt IE 7 ]><html itemscope itemtype="http://schema.org/Organization" class="ie6" class="ie ie-old" lang="en-US" prefix="og: http://ogp.me/ns#"><![endif]-->
+<!--[if IE 7 ]>   <html itemscope itemtype="http://schema.org/Organization" class="ie7" class="ie ie-old" lang="en-US" prefix="og: http://ogp.me/ns#"><![endif]-->
+<!--[if IE 8 ]>   <html itemscope itemtype="http://schema.org/Organization" class="ie8" class="ie ie-old" lang="en-US" prefix="og: http://ogp.me/ns#"><![endif]-->
+<!--[if IE 9 ]>   <html itemscope itemtype="http://schema.org/Organization" class="ie9" class="ie" lang="en-US" prefix="og: http://ogp.me/ns#"><![endif]-->
 <!--[if gt IE 9]><!--><html itemscope itemtype="http://schema.org/Organization" lang="en-US" prefix="og: http://ogp.me/ns#"><!--<![endif]-->
 	<head>
 		<!-- Meta -->
@@ -120,7 +120,7 @@
 
 	</head>
 	<body class="home page page-id-7 page-template-default">
-		<div id="fb-root"></div>
+		<div class="fb-root"></div>
 		<script>
 			window.fbAsyncInit = function() {
 				FB.init({
@@ -141,15 +141,15 @@
 			}(document));
 		</script>
 
-		<div id="site-wrapper">
+		<div class="site-wrapper">
 
-			<section id="site-navigation">
+			<section class="site-navigation">
 				<div class="brand">
 					<a href="/">
 						<img src="http://chriscoons.com/wp-content/themes/wideeyecreative/images/logo-white-large.png">
 					</a>
 				</div>
-				<nav id="side-nav">
+				<nav class="side-nav">
 					<ul>
 						<li>
 							<a href="/" class="">
@@ -209,15 +209,15 @@
 				</nav>
 			</section>
 
-			<nav id="hidden-nav">
-				<div id="inner-nav">
+			<nav class="hidden-nav">
+				<div class="inner-nav">
 					<a href="/" class="inner-logo"><img src="http://chriscoons.com/wp-content/themes/wideeyecreative/images/logo-white-large.png"></a>
-					<a href="#" id="open-nav">
-						<i class="fa fa-bars" id="open-close"></i>
+					<a href="#" class="open-nav">
+						<i class="fa fa-bars" class="open-close"></i>
 						<span></span>
 					</a>
 				</div>
-		<span id="side-nav">
+		<span class="side-nav">
 			<ul>
 				<li>
 					<a href="/" class="">
@@ -281,7 +281,7 @@
 
 
 
-			<div class="modal fade" id="signup-modal" tabindex="-1" role="dialog" aria-labelledby="myModalLabel" aria-hidden="true">
+			<div class="modal fade" class="signup-modal" tabindex="-1" role="dialog" aria-labelledby="myModalLabel" aria-hidden="true">
 				<div class="modal-dialog">
 					<div class="modal-content">
 						<div class="modal-body">
@@ -290,19 +290,19 @@
 							<form role="form" class="bsd">
 								<div class="form-group">
 									<label class="sr-only" for="endorse-first-name">First Name</label>
-									<input type="text" class="form-control text first_name placeholder required" id="endorse-first-name" placeholder="First name">
+									<input type="text" class="form-control text first_name placeholder required" class="endorse-first-name" placeholder="First name">
 								</div>
 								<div class="form-group">
 									<label class="sr-only" for="endorse-last-name">Last Name</label>
-									<input type="text" class="form-control text last_name placeholder required" id="endorse-last-name" placeholder="Last name">
+									<input type="text" class="form-control text last_name placeholder required" class="endorse-last-name" placeholder="Last name">
 								</div>
 								<div class="form-group">
 									<label class="sr-only" for="endorse-email">Email</label>
-									<input type="text" class="form-control email placeholder required" id="endorse-email" placeholder="Email address">
+									<input type="text" class="form-control email placeholder required" class="endorse-email" placeholder="Email address">
 								</div>
 								<div class="form-group">
 									<label class="sr-only" for="endorse-zip">Zip code</label>
-									<input type="text" class="form-control zip placeholder required" id="endorse-zip" placeholder="Zip code">
+									<input type="text" class="form-control zip placeholder required" class="endorse-zip" placeholder="Zip code">
 								</div>
 								<button type="submit" class="btn btn-danger submit">Get Updates</button>
 
@@ -325,10 +325,10 @@
 
 
 
-			<section id="topper" data-effect="parallax" data-speed="2">
+			<section class="topper" data-effect="parallax" data-speed="2">
 				<div class="container">
 					<div class="row">
-						<div class="col-md-10 col-md-offset-1" id="call-to-action" data-effect="parallax" data-speed="-2">
+						<div class="col-md-10 col-md-offset-1" class="call-to-action" data-effect="parallax" data-speed="-2">
 
 
 
@@ -353,7 +353,7 @@
 						</div>
 					</div>
 				</div>
-				<div class="row" id="action-bar" data-effect="parallax" data-speed="-2">
+				<div class="row" class="action-bar" data-effect="parallax" data-speed="-2">
 					<div class="col-md-12 clearfix">
 
 						<a href="/tweet-for-chris" class=""><span class="icon"><img src="http://chriscoons.com/wp-content/uploads/2014/02/white-getinvolved_twitter_icon_200x200.png"></span><span class="text">Tweet For Chris &nbsp;<i class="fa fa-angle-right"></i></span></a><a href="https://www.facebook.com/chriscoons" class=""><span class="icon"><img src="http://chriscoons.com/wp-content/uploads/2014/02/white-getinvolved_fb_icon_200x200.png"></span><span class="text">Like Chris on Facebook &nbsp;<i class="fa fa-angle-right"></i></span></a><a href="../digital-swag/" class=""><span class="icon"><img src="http://chriscoons.com/wp-content/uploads/2014/02/white-getinvolved_download_icon_200x200.png"></span><span class="text">Get Digital Swag &nbsp;<i class="fa fa-angle-right"></i></span></a><a href="https://secure.actblue.com/contribute/page/chriscoons.com" class="donate"><span class="icon"><img src="http://chriscoons.com/wp-content/uploads/2014/02/white-donate-menu_donate_icon_200x200.png"></span><span class="text">Make a Donation &nbsp;<i class="fa fa-angle-right"></i></span></a>
@@ -362,7 +362,7 @@
 			</section>
 
 			<main>
-				<section id="home-issues">
+				<section class="home-issues">
 					<div class="container">
 						<div class="row">
 
@@ -395,7 +395,7 @@
 				</section>
 
 
-				<section id="feeds">
+				<section class="feeds">
 					<div class="row no-margin">
 						<ul class="bxslider">
 
@@ -739,7 +739,7 @@
 
 
 
-			<section id="footer-logo">
+			<section class="footer-logo">
 				<div class="row">
 					<div class="col-md-12">
 						<a href="/">
@@ -749,22 +749,22 @@
 				</div>
 			</section>
 
-			<footer id="site-footer">
+			<footer class="site-footer">
 				<div class="container">
 					<div class="row">
 						<div class="col-md-12 clearfix">
-							<nav class="menu-footer-menu-container"><ul id="menu-footer-menu" class="menu"><li id="menu-item-25" class="home menu-item menu-item-type-post_type menu-item-object-page current-menu-item page_item page-item-7 current_page_item menu-item-25"><a href="http://chriscoons.com/" >Home</a></li>
-									<li id="menu-item-22" class="meet-chris menu-item menu-item-type-post_type menu-item-object-page menu-item-22"><a href="http://chriscoons.com/meet-chris/" >Meet Chris Coons</a></li>
-									<li id="menu-item-26" class="facebook menu-item menu-item-type-custom menu-item-object-custom menu-item-26"><a href="http://facebook.com/chriscoons" onclick="javascript:_gaq.push(['_trackEvent','outbound-menu','http://facebook.com']);">Facebook</a></li>
-									<li id="menu-item-24" class="get-involved menu-item menu-item-type-post_type menu-item-object-page menu-item-24"><a href="http://chriscoons.com/get-involved/" >Get Involved</a></li>
-									<li id="menu-item-27" class="twitter menu-item menu-item-type-custom menu-item-object-custom menu-item-27"><a href="http://twitter.com/chriscoons" onclick="javascript:_gaq.push(['_trackEvent','outbound-menu','http://twitter.com']);">Twitter</a></li>
-									<li id="menu-item-23" class="donate menu-item menu-item-type-post_type menu-item-object-page menu-item-23"><a href="http://chriscoons.com/donate/" >Donate</a></li>
+							<nav class="menu-footer-menu-container"><ul class="menu-footer-menu" class="menu"><li class="menu-item-25" class="home menu-item menu-item-type-post_type menu-item-object-page current-menu-item page_item page-item-7 current_page_item menu-item-25"><a href="http://chriscoons.com/" >Home</a></li>
+									<li class="menu-item-22" class="meet-chris menu-item menu-item-type-post_type menu-item-object-page menu-item-22"><a href="http://chriscoons.com/meet-chris/" >Meet Chris Coons</a></li>
+									<li class="menu-item-26" class="facebook menu-item menu-item-type-custom menu-item-object-custom menu-item-26"><a href="http://facebook.com/chriscoons" onclick="javascript:_gaq.push(['_trackEvent','outbound-menu','http://facebook.com']);">Facebook</a></li>
+									<li class="menu-item-24" class="get-involved menu-item menu-item-type-post_type menu-item-object-page menu-item-24"><a href="http://chriscoons.com/get-involved/" >Get Involved</a></li>
+									<li class="menu-item-27" class="twitter menu-item menu-item-type-custom menu-item-object-custom menu-item-27"><a href="http://twitter.com/chriscoons" onclick="javascript:_gaq.push(['_trackEvent','outbound-menu','http://twitter.com']);">Twitter</a></li>
+									<li class="menu-item-23" class="donate menu-item menu-item-type-post_type menu-item-object-page menu-item-23"><a href="http://chriscoons.com/donate/" >Donate</a></li>
 								</ul></nav>					<form action="/" role="search">
 								<input type="search" name="s" class="search" placeholder="Search the site">
 							</form>
 						</div>
 					</div>
-					<div class="row" id="social-footer">
+					<div class="row" class="social-footer">
 						<div class="col-md-12">
 							<a href="https://facebook.com/chriscoons"><img src="/wp-content/uploads/2014/02/menu_fb_icon_200x200.png"></a>
 							<a href="https://twitter.com/chriscoons"><img src="/wp-content/uploads/2014/02/menu_twitter_icon_200x200.png"></a>
@@ -772,8 +772,8 @@
 					</div>
 					<div class="row">
 						<div class="col-md-12">
-							<nav class="menu-footer-menu-2-container"><ul id="menu-footer-menu-2" class="menu"><li id="menu-item-60" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-60"><a href="http://chriscoons.com/privacy-policy/" >Privacy Policy</a></li>
-									<li id="menu-item-61" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-61"><a href="http://chriscoons.com/contact/" >Contact</a></li>
+							<nav class="menu-footer-menu-2-container"><ul class="menu-footer-menu-2" class="menu"><li class="menu-item-60" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-60"><a href="http://chriscoons.com/privacy-policy/" >Privacy Policy</a></li>
+									<li class="menu-item-61" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-61"><a href="http://chriscoons.com/contact/" >Contact</a></li>
 								</ul></nav>                    <div class="wideeye">Site by <a href="http://wideeyecreative.com" target="_blank">Wide Eye Creative</a></div>
 						</div>
 					</div>
@@ -807,10 +807,10 @@
 
 		<!-- AddThis Button -->
 		<script>var addthis_config = {"data_track_addressbar":false};</script>
-		<script src="//s7.addthis.com/js/300/addthis_widget.js#pubid=ra-51c770552f90ce31"></script>
+		<script src="//s7.addthis.com/js/300/addthis_widget.js#pubclass=ra-51c770552f90ce31"></script>
 
 		<!-- Twitter -->
-		<script>!function(d,s,id){var js,fjs=d.getElementsByTagName(s)[0],p=/^http:/.test(d.location)?'http':'https';if(!d.getElementById(id)){js=d.createElement(s);js.id=id;js.src=p+'://platform.twitter.com/widgets.js';fjs.parentNode.insertBefore(js,fjs);}}(document, 'script', 'twitter-wjs');</script>
+		<script>!function(d,s,id){var js,fjs=d.getElementsByTagName(s)[0],p=/^http:/.test(d.location)?'http':'https';if(!d.getElementById(id)){js=d.createElement(s);js.class=id;js.src=p+'://platform.twitter.com/widgets.js';fjs.parentNode.insertBefore(js,fjs);}}(document, 'script', 'twitter-wjs');</script>
 
 		<!-- Remarketing Pixels -->
 		<!-- Google Code for Website Visitors 4.17.14 -->
@@ -827,7 +827,7 @@
 		</script>
 		<noscript>
 			<div style="display:inline;">
-				<img height="1" width="1" style="border-style:none;" alt="" src="//googleads.g.doubleclick.net/pagead/viewthroughconversion/985526436/?value=1.000000&amp;label=CCbwCJSo3AgQpOH31QM&amp;guid=ON&amp;script=0"/>
+				<img height="1" width="1" style="border-style:none;" alt="" src="//googleads.g.doubleclick.net/pagead/viewthroughconversion/985526436/?value=1.000000&amp;label=CCbwCJSo3AgQpOH31QM&amp;guclass=ON&amp;script=0"/>
 			</div>
 		</noscript>
 	</body>
