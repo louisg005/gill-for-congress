@@ -39,6 +39,13 @@
 		<link rel="stylesheet" href="http://secure.wideeyeclient.com/universal_style.css">
 
 
+		<link rel="stylesheet" href="//css/style.css" type="text/css"/>
+		<link rel="stylesheet" href="//css/contact-form-7-css.css"  type="text/css">
+		<link rel="stylesheet" href="//css/ladda-css-css.css"  type="text/css">
+		<link rel="stylesheet" href="//css/bxslider-css.css"  type="text/css">
+		<link rel="stylesheet" href="//css/magnific-popup-css.css"  type="text/css">
+
+
 		<!--[if lt IE 9]>
 		<script src="/wp-content/themes/wideeyecreative/js/respond.min.js"></script>
 		<script src="//html5shiv.googlecode.com/svn/trunk/html5.js"></script>
@@ -93,11 +100,11 @@
 			})();
 			//]]></script>
 
-		<link rel="stylesheet" href="css/style.css" type="text/css"/>
-		<link rel="stylesheet" href="contact-form-7-css"  type="text/css">
-		<link rel="stylesheet" href="ladda-css-css"  type="text/css">
-		<link rel="stylesheet" href="bxslider-css"  type="text/css">
-		<link rel="stylesheet" href="magnific-popup-css"  type="text/css">
+		<link rel="stylesheet" href="../css/style.css" type="text/css"/>
+		<link rel="stylesheet" href="../css/contact-form-7-css.css"  type="text/css">
+		<link rel="stylesheet" href="../css/ladda-css-css.css"  type="text/css">
+		<link rel="stylesheet" href="../css/bxslider-css.css"  type="text/css">
+		<link rel="stylesheet" href="../css/magnific-popup-css.css"  type="text/css">
 
 		<!----
 		<link rel="stylesheet" href="css/style.css" type="text/css"/>
