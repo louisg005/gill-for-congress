@@ -48,8 +48,31 @@
 
 
 
-
-
+	<!-- Horizontal Buttons on Home Page -->
+	<div class="col-sm-9 col-sm-offset-3 col-md-10 col-md-offset-2 main">
+		<div class="row placeholders">
+			<div class="col-xs-6 col-sm-3 placeholder">
+				<img data-src="" class="img-responsive" alt="Contact David">
+				<h4>Contact David</h4>
+				<span class="text-muted">Something else</span>
+			</div>
+			<div class="col-xs-6 col-sm-3 placeholder">
+				<img data-src="" class="img-responsive" alt="Issues">
+				<h4>Issues</h4>
+				<span class="text-muted">Something else</span>
+			</div>
+			<div class="col-xs-6 col-sm-3 placeholder">
+				<img data-src="" class="img-responsive" alt="Get Digital Swag">
+				<h4>Get Campaign Materials</h4>
+				<span class="text-muted">Something else</span>
+			</div>
+			<div class="col-xs-6 col-sm-3 placeholder">
+				<img data-src="" class="img-responsive" alt="Make a Donation">
+				<h4>Make a Donation</h4>
+				<span class="text-muted">Something else</span>
+			</div>
+		</div>
+	</div>
 
 		<!-- Bootstrap core JavaScript
 		================================================== -->
