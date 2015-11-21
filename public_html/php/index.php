@@ -46,14 +46,27 @@
 				</ul>
 			</div>
 
-			<!-- Image -->
+			<!-- Image
 			<div class="container-bg">
 				<div class="row">
 					<div class="col-sm-9 col-sm-offset-3 col-md-10 col-md-offset-2">
 					</div>
 					</div>
 				</div>
-			</div>
+			</div> -->
+
+			<div class="carousel-inner" role="listbox">
+				<div class="item active">
+					<img class="first-slide" src="../img/g4chomeslide004.jpg" alt="First slide">
+					<div class="container align-right">
+						<div class="carousel-caption">
+							<!---<h1>Example headline.</h1>
+							<p>Note: If you're viewing this page via a <code>file://</code> URL, the "next" and "previous" Glyphicon buttons on the left and right might not load/display properly due to web browser security rules.</p>
+							--->
+							<p><a class="btn btn-lg btn-primary" href="#" role="button">Sign up today</a></p>
+						</div>
+					</div>
+				</div>
 
 	<!-- Horizontal Buttons on Home Page -->
 	<div class="col-sm-9 col-sm-offset-3 col-md-10 col-md-offset-2 main">
