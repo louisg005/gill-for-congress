@@ -36,7 +36,7 @@
 	<!-- Sidebar -->
 	<div class="container-fluid">
 		<div class="row">
-			<div class="col-sm-3 col-med-2 sidebar">
+			<div class="col-sm-2 col-med-1 sidebar">
 				<ul class="nav nav-sidebar">
 					<li><a href="#">Overview<span class=""sr-only"></span></a></li>
 					<li><a href="#">Volunteer</a></li>
