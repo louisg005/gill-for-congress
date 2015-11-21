@@ -35,7 +35,7 @@
 		<div class="row">
 			<div class="col-sm-3 col-med-2 sidebar">
 				<ul class="nav nav-sidebar">
-					<li class="active"><a href="#">Overview<span class=""sr-only"></span></a></li>
+					<li><a href="#">Overview<span class=""sr-only"></span></a></li>
 					<li><a href="#">Volunteer</a></li>
 					<li><a href="#">Twitter</a></li>
 					<li><a href="#">Facebook</a></li>
