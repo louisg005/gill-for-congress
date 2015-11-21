@@ -56,7 +56,7 @@
 			</div> -->
 
 			<div class="carousel-inner" role="listbox">
-				<div class="row">
+				<div class="row placeholders">
 				<div class="col-sm-9 col-sm-offset-3 col-md-10 col-md-offset-2">
 				<div class="item active">
 					<img class="first-slide" src="../img/g4chomeslide004.jpg" alt="First slide">
@@ -68,10 +68,10 @@
 							<p><a class="btn btn-lg btn-primary" href="#" role="button">Sign up today</a></p>
 						</div>
 					</div>
-					</div>
 				</div>
 				</div>
 				</div>
+			</div>
 
 	<!-- Horizontal Buttons on Home Page -->
 	<div class="col-sm-9 col-sm-offset-3 col-md-10 col-md-offset-2 main">
