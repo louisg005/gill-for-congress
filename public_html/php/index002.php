@@ -34,7 +34,12 @@
 		<div class="container-fluid">
 			<div class="row">
 				<div class="col-md-6">
-					Container Left
+					<ul class="nav nav-sidebar">
+						<li class="active"><a href="#">Overview <span class="sr-only">(current)</span></a></li>
+						<li><a href="#">Reports</a></li>
+						<li><a href="#">Analytics</a></li>
+						<li><a href="#">Export</a></li>
+					</ul>
 
 				</div>
 				<div class="col-md-6">
