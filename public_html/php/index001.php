@@ -105,7 +105,7 @@
 						</div>
 					</div>
 				</div>
-				<div class="item">
+				<div class="item active">
 					<img class="second-slide" src="../img/g4chomeslide003.jpg" alt="Second slide">
 					<div class="container">
 						<div class="carousel-caption">
@@ -115,7 +115,7 @@
 						</div>
 					</div>
 				</div>
-				<div class="item">
+				<div class="item active">
 					<img class="third-slide" src="../img/g4chomeslide003.jpg" alt="Third slide">
 					<div class="container">
 						<div class="carousel-caption">
