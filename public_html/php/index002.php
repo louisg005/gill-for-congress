@@ -43,7 +43,7 @@
 
 				</div>
 				<div class="col-md-11">
-					Container Right
+					<img class="first-slide" src="../img/g4chomeslide004.jpg" alt="First slide">
 				</div>
 			</div>
 		</div>
