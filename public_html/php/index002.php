@@ -46,6 +46,13 @@
 					<img class="first-slide" src="../img/g4chomeslide004.jpg" alt="First slide">
 						<div class="container align-right">
 							<div class="row">
+
+
+									<div class="col-md-4 pull-right">First column, floated right</div>
+									<div class="col-md-4">Second column</div>
+									<div class="col-md-4">Third column</div>
+
+
 								<div class="col-md-4">
 									<div class="carousel-caption">
 										<p><a class="btn btn-lg btn-primary" href="#" role="button">Sign up today</a></p>
@@ -56,12 +63,6 @@
 										<p><a class="btn btn-lg btn-primary" href="#" role="button">Sign up today</a></p>
 									</div>
 								</div>
-
-									<div class="row">
-										<div class="col-md-4 pull-right">First column, floated right</div>
-										<div class="col-md-4">Second column</div>
-										<div class="col-md-4">Third column</div>
-									</div>
 
 							</div>
 						</div>
