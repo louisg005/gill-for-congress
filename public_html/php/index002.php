@@ -46,11 +46,12 @@
 					<img class="first-slide" src="../img/g4chomeslide004.jpg" alt="First slide">
 						<div class="container align-right">
 							<div class="row">
-								   <p><a class="btn btn-lg btn-primary"><div class="col-md-4 pull-right">First column, floated right</div>
+
+
+									<div class="col-md-4 pull-right">First column, floated right</div>
 									<div class="col-md-4">Second column</div>
 									<div class="col-md-4">Third column</div>
-									</a></p>
-								</div>
+
 
 								<div class="col-md-4">
 									<div class="carousel-caption">
