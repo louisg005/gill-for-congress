@@ -31,7 +31,7 @@
 	<body>
 
 
-		<div class="container-fluid">
+		<div> class="container-fluid">
 			<div class="row">
 				<div class="col-md-1">
 					<ul class="nav nav-sidebar">
@@ -44,22 +44,31 @@
 
 				<div class="col-md-11">
 					<img class="first-slide" src="../img/g4chomeslide004.jpg" alt="First slide">
-					<div class="container align-right">
-						<div class="row">
-							<div class="col-md-3">
-						<div class="carousel-caption">
-							<p><a class="btn btn-lg btn-primary" href="#" role="button">Sign up today</a></p>
-						</div>
-								<div class="col-md-3">
+						<div class="container align-right">
+							<div class="row">
+								<div class="col-md-4">
 									<div class="carousel-caption">
 										<p><a class="btn btn-lg btn-primary" href="#" role="button">Sign up today</a></p>
+									</div>
+
+								<div class="col-md-4">
+									<div class="carousel-caption">
+										<p><a class="btn btn-lg btn-primary" href="#" role="button">Sign up today</a></p>
+									</div>
+								</div>
+
+									<div class="col-md-4">
+										<div class="carousel-caption">
+											<p><a class="btn btn-lg btn-primary" href="#" role="button">Sign up today</a></p>
+										</div>
+									</div>
+
+							</div>
 						</div>
 					</div>
 				</div>
 			</div>
 		</div>
-		</div>
-		</div
 
 		<!-- Bootstrap core JavaScript
 		================================================== -->
