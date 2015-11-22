@@ -33,7 +33,7 @@
 
 		<div class="container-fluid">
 			<div class="row">
-				<div class="col-md-6">
+				<div class="col-md-1">
 					Container Left
 					<ul class="nav nav-sidebar">
 						<li class="active"><a href="#">Overview <span class="sr-only">(current)</span></a></li>
@@ -57,7 +57,7 @@
 				</div>
 
 
-				<div class="col-md-6">
+				<div class="col-md-11">
 					Container Right
 				</div>
 			</div>
