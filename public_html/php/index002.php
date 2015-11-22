@@ -47,7 +47,7 @@
 						<div class="container align-right">
 							<div class="row">
 
-								<div class="row">
+
 									<div class="col-md-4 pull-right">First column, floated right</div>
 									<div class="col-md-4">Second column</div>
 									<div class="col-md-4">Third column</div>
