@@ -31,7 +31,7 @@
 	<body>
 
 
-		<div> class="container-fluid">
+		<div class="container-fluid">
 			<div class="row">
 				<div class="col-md-1">
 					<ul class="nav nav-sidebar">
