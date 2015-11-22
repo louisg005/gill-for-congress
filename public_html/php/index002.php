@@ -50,7 +50,7 @@
 								<img src="../img/g4chomeslide004.jpg" alt="" class="img-responsive">
 								<div class="carousel-caption">
 									Insert your text here !
-							<div class="row">
+									<div class="row">
 
 								<!---------------------Bottom buttons on homepage image---------------------->
 									<div class="col-md-4 pull-right">First column, floated right</div>
@@ -73,10 +73,7 @@
 
 									</div>
 								</div>
-						</div>
-
-
-
+							</div>
 						</div>
 					</div>
 				</div>
