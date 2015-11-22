@@ -30,7 +30,7 @@
 
 	<body>
 
-
+<!---------------left side buttons----------------->
 		<div class="container-fluid">
 			<div class="row">
 				<div class="col-md-1">
@@ -42,29 +42,30 @@
 					</ul>
 				</div>
 
+				<!---------------------homepage image---------------------->
 				<div class="col-md-11">
 					<img class="first-slide" src="../img/g4chomeslide004.jpg" alt="First slide">
 						<div class="container align-right">
 							<div class="row">
 
-
+								<!---------------------Bottom buttons on homepage image---------------------->
 									<div class="col-md-4 pull-right">First column, floated right</div>
 									<div class="col-md-4">Second column</div>
 									<div class="col-md-4">Third column</div>
 
-
+								<!----------------Homepage sign up button and facebook button---------->
 								<div class="col-md-4">
 									<div class="carousel-caption">
 										<p><a class="btn btn-lg btn-primary" href="#" role="button">Sign up today</a></p>
 									</div>
 
-								<div class="col-md-4">
-									<div class="carousel-caption">
-										<p><a class="btn btn-lg btn-primary" href="#" role="button">Sign up today</a></p>
+									<div class="col-md-4">
+										<div class="carousel-caption">
+											<p><a class="btn btn-lg btn-primary" href="#" role="button">Sign up today</a></p>
+										</div>
 									</div>
 								</div>
 
-							</div>
 						</div>
 					</div>
 				</div>
