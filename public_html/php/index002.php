@@ -48,7 +48,9 @@
 						<div class="carousel-inner">
 							<div class="item active">
 								<img src="../img/g4chomeslide004.jpg" alt="" class="img-responsive">
-
+								<div class="carousel-caption">
+									Insert your text here !
+									<div class="row">
 
 								<!---------------------Bottom buttons on homepage image---------------------->
 									<div class="col-md-4 pull-right">First column, floated right</div>
@@ -64,12 +66,6 @@
 									<div class="col-md-4">
 										<div class="carousel-caption">
 											<p><a class="btn btn-lg btn-primary" href="#" role="button">Sign up today</a></p>
-
-											<div class="carousel-caption">
-												Insert your text here !
-												<div class="row">
-
-
 										</div>
 									</div>
 								</div>
