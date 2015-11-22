@@ -44,8 +44,12 @@
 
 				<!---------------------homepage image---------------------->
 				<div class="col-md-11">
-					<img class="first-slide" src="../img/g4chomeslide004.jpg" alt="First slide">
-						<div class="container align-right">
+					<div id="mycarousel" class="carousel slide" data-ride="carousel">
+						<div class="carousel-inner">
+							<div class="item active">
+								<img src="../img/g4chomeslide004.jpg" alt="" class="img-responsive">
+								<div class="carousel-caption">
+									Insert your text here !
 							<div class="row">
 
 								<!---------------------Bottom buttons on homepage image---------------------->
@@ -65,6 +69,13 @@
 										</div>
 									</div>
 								</div>
+
+
+									</div>
+								</div>
+						</div>
+
+
 
 						</div>
 					</div>
