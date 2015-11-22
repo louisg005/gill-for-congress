@@ -56,13 +56,6 @@
 										<p><a class="btn btn-lg btn-primary" href="#" role="button">Sign up today</a></p>
 									</div>
 								</div>
-
-									<div class="col-md-4">
-										<div class="carousel-caption">
-											<p><a class="btn btn-lg btn-primary" href="#" role="button">Sign up today</a></p>
-										</div>
-									</div>
-
 							</div>
 						</div>
 					</div>
