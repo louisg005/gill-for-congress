@@ -34,7 +34,7 @@
 	<body>
 
 <!---------------left side buttons----------------->
-		<div id="p" class="container-fluid">
+		<div id="buttonstrip" class="container-fluid">
 			<div class="row">
 				<div class="col-md-1">
 					<ul class="nav nav-sidebar">
