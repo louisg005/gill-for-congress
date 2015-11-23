@@ -18,6 +18,9 @@
 		<!-- Optional theme -->
 		<link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.5/css/bootstrap-theme.min.css" integrity="sha384-aUGj/X2zp5rLCbBxumKTCw2Z50WgIr1vs/PFN4praOTvYXWlVyh2UtNUU0KAUhAX" crossorigin="anonymous">
 
+		<!--custom css page---->
+		<link rel="stylesheet" href="../css/g4c.css" type="text/css">
+
 		<!-- Latest compiled and minified JavaScript -->
 		<script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.5/js/bootstrap.min.js" integrity="sha512-K1qjQ+NcF2TYO/eI3M6v8EiNYZfA95pQumfvcVrTHtwQVDG+aHRqLi/ETn2uB+1JqwYqVG3LIvdm9lj6imS/pQ==" crossorigin="anonymous"></script>
 
@@ -31,7 +34,7 @@
 	<body>
 
 <!---------------left side buttons----------------->
-		<div class="container-fluid">
+		<div id="#p.container" class="container-fluid">
 			<div class="row">
 				<div class="col-md-1">
 					<ul class="nav nav-sidebar">
@@ -69,7 +72,6 @@
 										</div>
 									</div>
 								</div>
-
 
 									</div>
 								</div>
